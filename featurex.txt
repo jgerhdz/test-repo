@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-
-
-
 Adding this line in "Master"
-=======
 featurex
->>>>>>> b808adc
